@@ -1,17 +1,18 @@
 # Machine-Learning-Journey
 
 
-Summer Training Projects at NTI
-Introduction
+# Summer Training Projects at NTI
+- Introduction
 Welcome to my GitHub repository for the summer training program at NTI. Here, you'll find the projects I worked on during my training. This repository showcases the skills and knowledge I gained over the summer.
 
 Table of Contents
-Overview
-Projects
-Installation
-Usage
-Contributing
-License
+- Overview
+- Projects
+- Installation
+- Usage
+- Contributing
+- License
+- 
 Overview
 This section provides a brief summary of the summer training program and its objectives. It can include details about the training's focus, the skills developed, and any noteworthy experiences.
 
