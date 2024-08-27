@@ -1,7 +1,5 @@
 # Machine-Learning-Journey
 
-Memory updated
-A good README file should clearly introduce your project, provide essential details, and guide users on how to navigate your repository. Here’s a basic structure you can use for your README file:
 
 Summer Training Projects at NTI
 Introduction
