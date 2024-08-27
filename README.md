@@ -12,7 +12,7 @@ Welcome to my GitHub repository for the summer training program at NTI. This rep
 6. [License](#license)
 
 ## Overview
-During my summer training at NTI, I focused on [briefly describe the focus of your training]. The training provided hands-on experience with [mention any key areas or technologies you worked with].
+During my summer training at NTI, I focused on Machine Learning Data collection and preprocessing, Data analysis and visualization., Model selection and training., Model deployment and maintenance. 
 
 ## Projects
 Here is a list of the projects developed during the training:
@@ -42,13 +42,6 @@ To use the projects, follow these instructions:
 2. [How to interact with it]
 3. [Provide example commands or code snippets if needed]
 
-## Contributing
-Contributions are welcome! If you would like to contribute, please follow these guidelines:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a new Pull Request
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
